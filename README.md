@@ -1,0 +1,3 @@
+# Análise da relação entre obesidade e PIB per capita
+
+Este projeto investiga a correlação entre a taxa de obesidade em diferentes países e o PIB per capita, utilizando base de dados do Kaggle: [Obesity among adults by country, 1975-2016](https://www.kaggle.com/amanarora/obesity-among-adults-by-country-19752016/) e [GDP Per Person (1901-2011)](https://www.kaggle.com/divyansh22/gdp-per-person-19012011?select=GDP.csv). A análise inclui visualizações gráficas para ilustrar tendências e relações entre essas variáveis.
